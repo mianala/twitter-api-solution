@@ -10,6 +10,7 @@ nose = "*"
 [packages]
 flask = "*"
 flask-restx = "*"
+flask-migrate = "*"
 
 [requires]
 python_version = "3.8"
